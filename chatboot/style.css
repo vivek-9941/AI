@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#chatbot{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 2px;
+    margin:20px;
+
+}
+
+#userinput{
+    width: 500px;
+    padding:10px;
+
+}
+.user{
+    color:blue;
+    font-size: medium;
+}
+.bot{
+    color: green;
+    font-size: medium;
+}
